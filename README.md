@@ -19,3 +19,6 @@ construido con AWS Glue Studio, Step Functions y Athena.
 
 ### Paso 7 — Orquestación con Step Functions
 ![Pipeline orquestado con ambos estados completados](evidence/step_7_step_functions.png)
+
+### Paso 8 — Consultas analíticas en Athena
+![Consulta de negocio ejecutada sobre el modelo Gold](evidence/step_8_athena_queries.png)
