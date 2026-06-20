@@ -10,3 +10,6 @@ construido con AWS Glue Studio, Step Functions y Athena.
 
 ### Paso 2 — Bucket S3 con las 5 carpetas
 ![Bucket del Data Lake](evidence/step_2_s3_bucket.png)
+
+### Step 5 — Job Bronze → Silver completado
+![Job Bronze a Silver con estado Succeeded](evidence/step_5_glue_silver_succeeded.png)
