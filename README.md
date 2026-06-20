@@ -16,3 +16,6 @@ construido con AWS Glue Studio, Step Functions y Athena.
 
 ### Paso 6 — Job Silver → Gold completado (modelo estrella)
 ![Job Silver a Gold con estado Succeeded](evidence/step_6_glue_gold_succeeded.png)
+
+### Paso 7 — Orquestación con Step Functions
+![Pipeline orquestado con ambos estados completados](evidence/step_7_step_functions.png)
