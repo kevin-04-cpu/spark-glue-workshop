@@ -13,3 +13,6 @@ construido con AWS Glue Studio, Step Functions y Athena.
 
 ### Step 5 — Job Bronze → Silver completado
 ![Job Bronze a Silver con estado Succeeded](evidence/step_5_glue_silver_succeeded.png)
+
+### Paso 6 — Job Silver → Gold completado (modelo estrella)
+![Job Silver a Gold con estado Succeeded](evidence/step_6_glue_gold_succeeded.png)
